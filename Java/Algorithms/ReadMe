@@ -1,0 +1,2 @@
+A Project comparing different searches and sorts and testing their times and efficiencies based on various array sizes.
+The two runners are AlgorithmTester.java and SearchTester.java
