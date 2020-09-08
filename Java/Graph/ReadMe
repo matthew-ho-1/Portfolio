@@ -1,0 +1,3 @@
+This is a project utilzing the Graph Data Structure through a Blood Donor-Recipient list
+The Main Runner is TransplantDriver.java
+The data needed is donors.txt and recipients.txt. Without these the code will not run.
