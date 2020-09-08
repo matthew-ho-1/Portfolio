@@ -1,0 +1,42 @@
+[
+    {
+        "itemCode": "421632901",
+        "itemName": "Corn Flakes",
+        "avgSales": "12",
+        "qtyInStore": "40",
+        "price": "4.99",
+        "amtOnOrder": "0"
+    },
+    {
+        "itemCode": "521678345",
+        "itemName": "Evian Natural Spring Water",
+        "avgSales": "20",
+        "qtyInStore": "30",
+        "price": "5.99",
+        "amtOnOrder": "0"
+    },
+    {
+        "itemCode": "135234680",
+        "itemName": "Lindt Chocolate",
+        "avgSales": "10",
+        "qtyInStore": "20",
+        "price": "10.99",
+        "amtOnOrder": "0"
+    },
+    {
+        "itemCode": "890234156",
+        "itemName": "Olay Soap",
+        "avgSales": "30",
+        "qtyInStore": "10",
+        "price": "7.99",
+        "amtOnOrder": "0"
+    },
+    {
+        "itemCode": "321412876",
+        "itemName": "Orbit Gum",
+        "avgSales": "15",
+        "qtyInStore": "30",
+        "price": "1.09",
+        "amtOnOrder": "0"
+    }
+]

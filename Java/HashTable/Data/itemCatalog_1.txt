@@ -1,0 +1,50 @@
+[
+    {
+        "itemCode": "690123401",
+        "itemName": "BIC Black Pens",
+        "avgSales": "10",
+        "qtyInStore": "40",
+        "price": "10.98",
+        "amtOnOrder": "0"
+    },
+    {
+        "itemCode": "661290409",
+        "itemName": "Cheerios",
+        "avgSales": "10",
+        "qtyInStore": "60",
+        "price": "3.99",
+        "amtOnOrder": "0"
+    },
+    {
+        "itemCode": "215672341",
+        "itemName": "5 Gum",
+        "avgSales": "30",
+        "qtyInStore": "80",
+        "price": "2.01",
+        "amtOnOrder": "0"
+    },
+    {
+        "itemCode": "521378123",
+        "itemName": "Kleenex Tissues",
+        "avgSales": "20",
+        "qtyInStore": "50",
+        "price": "2.12",
+        "amtOnOrder": "0"
+    },
+    {
+        "itemCode": "432085123",
+        "itemName": "Milk",
+        "avgSales": "19",
+        "qtyInStore": "30",
+        "price": "3.99",
+        "amtOnOrder": "0"
+    },
+    {
+        "itemCode": "908125001",
+        "itemName": "Coffee",
+        "avgSales": "30",
+        "qtyInStore": "40",
+        "price": "10.99",
+        "amtOnOrder": "0"
+    }
+]

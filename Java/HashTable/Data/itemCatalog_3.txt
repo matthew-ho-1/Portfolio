@@ -1,0 +1,50 @@
+[
+    {
+        "itemCode": "145910231",
+        "itemName": "Frito Lays",
+        "avgSales": "7",
+        "qtyInStore": "20",
+        "price": "3.99",
+        "amtOnOrder": "0"
+    },
+    {
+        "itemCode": "680124585",
+        "itemName": "Gain Flings",
+        "avgSales": "9",
+        "qtyInStore": "20",
+        "price": "12.99",
+        "amtOnOrder": "0"
+    },
+    {
+        "itemCode": "146012891",
+        "itemName": "Lucky Charms",
+        "avgSales": "12",
+        "qtyInStore": "30",
+        "price": "3.99",
+        "amtOnOrder": "0"
+    },
+    {
+        "itemCode": "765324890",
+        "itemName": "Twix Chocolate",
+        "avgSales": "10",
+        "qtyInStore": "30",
+        "price": "7.99",
+        "amtOnOrder": "0"
+    },
+    {
+        "itemCode": "324345764",
+        "itemName": "Voss Artesian Water",
+        "avgSales": "20",
+        "qtyInStore": "40",
+        "price": "4.99",
+        "amtOnOrder": "0"
+    },
+    {
+        "itemCode": "661290409",
+        "itemName": "Cheerios",
+        "avgSales": "10",
+        "qtyInStore": "60",
+        "price": "3.99",
+        "amtOnOrder": "0"
+    }
+]

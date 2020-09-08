@@ -1,0 +1,22 @@
+[
+    {
+        "itemCode": "111298123",
+        "qtySold": "24"
+    },
+    {
+        "itemCode": "521678345",
+        "qtySold": "17"
+    },
+    {
+        "itemCode": "521891235",
+        "qtySold": "21"
+    },
+    {
+        "itemCode": "654412389",
+        "qtySold": "8"
+    },
+    {
+        "itemCode": "321412876",
+        "qtySold": "15"
+    }
+]

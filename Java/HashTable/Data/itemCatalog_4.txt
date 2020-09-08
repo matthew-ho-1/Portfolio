@@ -1,0 +1,50 @@
+[
+    {
+        "itemCode": "213433112",
+        "itemName": "Aveeno Soap",
+        "avgSales": "20",
+        "qtyInStore": "30",
+        "price": "6.99",
+        "amtOnOrder": "0"
+    },
+    {
+        "itemCode": "908125001",
+        "itemName": "Coffee",
+        "avgSales": "30",
+        "qtyInStore": "40",
+        "price": "10.99",
+        "amtOnOrder": "0"
+    },
+    {
+        "itemCode": "521891235",
+        "itemName": "Lays",
+        "avgSales": "20",
+        "qtyInStore": "40",
+        "price": "6.99",
+        "amtOnOrder": "0"
+    },
+    {
+        "itemCode": "432562123",
+        "itemName": "Milky Way Chocolate",
+        "avgSales": "20",
+        "qtyInStore": "5",
+        "price": "6.99",
+        "amtOnOrder": "0"
+    },
+    {
+        "itemCode": "176554378",
+        "itemName": "Tide Pods",
+        "avgSales": "30",
+        "qtyInStore": "20",
+        "price": "14.99",
+        "amtOnOrder": "0"
+    },
+    {
+        "itemCode": "690123401",
+        "itemName": "BIC Black Pens",
+        "avgSales": "10",
+        "qtyInStore": "40",
+        "price": "10.98",
+        "amtOnOrder": "0"
+    }
+]

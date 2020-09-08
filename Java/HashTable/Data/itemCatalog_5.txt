@@ -1,0 +1,50 @@
+[
+    {
+        "itemCode": "881257120",
+        "itemName": "Dove Soap",
+        "avgSales": "10",
+        "qtyInStore": "40",
+        "price": "8.99",
+        "amtOnOrder": "0"
+    },
+    {
+        "itemCode": "111298123",
+        "itemName": "Eggs",
+        "avgSales": "60",
+        "qtyInStore": "70",
+        "price": "4.99",
+        "amtOnOrder": "0"
+    },
+    {
+        "itemCode": "964839292",
+        "itemName": "Pringles",
+        "avgSales": "10",
+        "qtyInStore": "30",
+        "price": "3.99",
+        "amtOnOrder": "0"
+    },
+    {
+        "itemCode": "654412389",
+        "itemName": "Puffs Tissues",
+        "avgSales": "5",
+        "qtyInStore": "30",
+        "price": "1.12",
+        "amtOnOrder": "0"
+    },
+    {
+        "itemCode": "123432891",
+        "itemName": "Trident Gum",
+        "avgSales": "17",
+        "qtyInStore": "50",
+        "price": "0.98",
+        "amtOnOrder": "0"
+    },
+    {
+        "itemCode": "421632901",
+        "itemName": "Corn Flakes",
+        "avgSales": "12",
+        "qtyInStore": "40",
+        "price": "4.99",
+        "amtOnOrder": "0"
+    }
+]
