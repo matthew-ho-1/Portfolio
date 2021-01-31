@@ -3,5 +3,9 @@ towards another person, which consist of key words contained in an array, the Bo
 certain time will release them from the "Timeout" role and give back their original roles. The bot will also Direct Message the person and the owner (me), informing them and me of 
 their punishment and at what time they will be released from punishment. They can contact me, if they want to contest or if they were wrongly put in the punishment. It will also 
 write to a JSON file to ensure that when the bot goes offline, the bot can keep track of how many times a person has been punished. The punishment duration depends on how many 
-times after their initial timeout they use derogatory language. After 5 warnings, they will be kicked out of the server and allowed to come back at a later time. On the 7th warning,
-they will be banned from the Discord server and not allowed to come back. 
+times after their initial timeout they use derogatory language. After 5 warnings, they will be kicked out of the server and allowed to come back at a later time. On the 7th warning
+, they will be banned from the Discord server and not allowed to come back. 
+
+CURRENT VERSION: (V. 1.0)
+CHANGE LOGS:
+V 1.0- Initial Release 
