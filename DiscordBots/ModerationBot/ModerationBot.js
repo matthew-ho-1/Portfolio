@@ -209,4 +209,4 @@ client.on('message', message => {
 			}
 });
 
-client.login('ODAyNjk5OTE4NzY1NzE5NTcy.YAzCjg.ZPbbWSJ2BNAUSLd8ARoeR6EaDyQ');
+client.login('[REDACTED: INSERT BOT TOKEN HERE');
